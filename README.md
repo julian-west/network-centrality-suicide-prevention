@@ -1,6 +1,8 @@
 ## Network Analytics - Custom Centrality Measures
 ### Identifying at risk students from phone call records
 
+**To view the notebook in nbviewer [click here](https://nbviewer.jupyter.org/github/julian-west/network-centrality-suicide-prevention/blob/master/Network%20centrality%20measures%20-%20suicide%20risk.ipynb#duration)**
+
 Project completed as part of the Imperial College Business School MSc Business Analytics course. Developing a custom centrality measure to identify important members of a social network and their influence over others in the network.
 
 
